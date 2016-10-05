@@ -17,7 +17,7 @@
         android:text="Hello World!" />
 
     <Button
-        android:text="Hitun"
+        android:text="Hitung"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/buttonHitung" />
